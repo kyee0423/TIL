@@ -288,8 +288,13 @@ origin https://github.com/kyee0423/TIL.git (push)
 
 
 
-
-
-
-
 push 통해서 기록(commits) 업로드
+
+**git add day01.md**
+
+**git commit -m "Upload TIL Day1"**
+
+**git push origin master**
+
+
+
